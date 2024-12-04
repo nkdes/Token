@@ -1,1 +1,0 @@
-{"version":1,"contracts":[{"id":"9s81pdv3tphoa","package_name":"betterthon","contract_name":"my_token","module_path":"betterthon::token::my_token","artifacts":{"sierra":"betterthon_my_token.contract_class.json","casm":null}}]}
